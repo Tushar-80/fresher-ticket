@@ -14,4 +14,13 @@
     border-right:none;
     padding-left: 20px;
     background-color: #ffeee6;
-    }    
+}    
+.event-part{
+        width: 60%;
+        border-radius: 20px;
+        box-shadow: 0 0 15px 2px rgba(0,0,0,0.5);
+        border: 2px solid #737373;
+        border-left: dashed;
+        padding-left: 20px;
+        background-color: #ffeee6;
+}
