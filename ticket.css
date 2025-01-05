@@ -107,3 +107,19 @@
         height: 100px;
     }  
     }    
+
+    /* Laptop */
+@media (min-width:801px) and (max-width:1024px){
+    .user-part{
+    width: 300px;
+    }
+    .event-part{
+    width: 500px;
+    }
+    .event-title{
+    font-size: 20px;
+    }
+    .event-logo{
+        height: 50%;
+    }  
+}
