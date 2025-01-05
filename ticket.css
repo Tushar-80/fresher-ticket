@@ -38,3 +38,10 @@
 .time{
     padding-left: 50%;
 }
+.head{
+    .event-logo{
+        height: 50px;
+        padding-top: 7px;
+        border-radius: 10px;
+    }
+}
