@@ -24,3 +24,7 @@
         padding-left: 20px;
         background-color: #ffeee6;
 }
+.ticket-number{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+}
