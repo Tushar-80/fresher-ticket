@@ -45,3 +45,34 @@
         border-radius: 10px;
     }
 }
+
+/* Mobile */
+@media (max-width:600px){
+    .ticket-container{
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        width: auto;
+}
+.user-part{
+    width: 400px;
+    border-right: solid;
+    border-bottom: none;
+}
+.event-part{
+    width: 400px;
+    border-top: dashed;
+    border-left: solid;
+    height: 300px;
+}
+.event-title{
+    font-size: 18px;
+
+}
+.event-logo{
+    height: 100px;
+}
+.img-pic{
+    height: 100px;
+}
+}
